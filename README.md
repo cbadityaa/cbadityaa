@@ -1,6 +1,6 @@
 <h1>Hi there👋, I'm Aditya</h1>
 <h3>I'm a Computer Science and Engineering Student</h3>
-<img src="code.gif" width="500" height="420"align="center" />
+<img src="code.gif"/>
 
 - 🔭 I’m currently working on **Python**
 
