@@ -16,20 +16,25 @@
 <p align="left">
 <a href="https://linkedin.com/in/aditya-cb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-cb" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_cb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_cb" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/cbaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cbaditya" height="30" width="40" /></a>
 </p>
 </div>
-<br>
 
 ---
 <h3 align="left">Languages and Tools 🛠</h3>
-![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c++&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=ffffff)
-![C](https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=c&logoColor=%23ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Django](https://img.shields.io/badge/-Django-61DAFB?style=flat-square&logo=django&logoColor=ffffff)
+<p><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt-text="C">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt-text="C++">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt-text="CSS3">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt-text="HTML5">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt-text="Python">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt-text="JS">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt-text="VS code">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt-text="linux">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt-text="Django">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt-text="Windows">
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt-text="git">
+</p>
+
+
 
 
 
